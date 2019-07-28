@@ -1,5 +1,5 @@
-# Linux-commands
-Most usefull Linux commands in day to day work
+# Linux-Powersehll commands
+Most usefull Linux and powershell commands in day to day work
 
 ## List all open ports
 
